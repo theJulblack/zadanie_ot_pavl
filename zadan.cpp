@@ -56,16 +56,16 @@ int main()
   st1.course_number = 2;
   st1.passport = "1234 123456";
 
-  st2.name = "Liza";
-  st2.surname = "Janvareva";
-  st2.group = "ISiP-2-9-23";
+  st2.name = "Egor";
+  st2.surname = "Krid";
+  st2.group = "ISiP-1-9-23";
   st2.form = EducationForm::FullTime;
   st2.course_number = 2;
   st2.passport = "1234 654321";
 
-  st3.name = "Ilia";
-  st3.surname = "Janvarev";
-  st3.group = "ISiP-2-9-23";
+  st3.name = "Mia";
+  st3.surname = "Boiko";
+  st3.group = "ISiP-1-9-23";
   st3.form = EducationForm::FullTime;
   st3.course_number = 2;
   st3.passport = "4321 123456";
